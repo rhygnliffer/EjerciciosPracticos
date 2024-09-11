@@ -1,4 +1,4 @@
-package PracticasDeClase;
+package Laboratorio;
 
 public class OtroSupermercado {
     public static void main(String[] args) {

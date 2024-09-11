@@ -1,8 +1,10 @@
-package PracticasDeClase;
+package Laboratorio;
 
 import java.util.ArrayList;
 
+
 // Trabajo realizado por José Gabriel Britez y Matias Geymonat
+// Nota: corregir 11/09/2024
 
 
 
@@ -23,7 +25,7 @@ public class Supermercado {
     }
 }
 
-class Tools{
+class Herramientas{
     public static void imprimir(String mensaje){
         System.out.println(mensaje);
     }
